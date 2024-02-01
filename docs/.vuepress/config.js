@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'TypeScript4 文档',
-    description: 'TypeScript4 最新官方文档翻译',
+    title: '❤️春春宝贝我爱你❤️',
+    description: '❤️我们永远在一起❤️',
     base: '/gpt-blog/',
     theme: 'reco',
     locales: {
