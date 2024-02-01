@@ -1,6 +1,6 @@
 module.exports = {
-    title: '❤️春春宝贝我爱你❤️',
-    description: '❤️我们永远在一起❤️',
+    title: 'ChatGPT Plus',
+    description: 'ChatGPT Plus',
     base: '/gpt-blog/',
     theme: 'reco',
     locales: {
