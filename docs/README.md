@@ -5,7 +5,9 @@
 然后大家看到的我发出来的链接是带一个邀请码的，走我邀请码注册和充值的人，我就会收到 2 美元返现
 ![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChat380d20364794a1096cceac72c1026364.jpg)
 
-目前选择 bewildcard 主要原因是其注册简便、开卡速度快，最重要的是支持 RMB 付款。其他平台需购买稳定币兑换，对普通用户门槛高且手续费昂贵。bewildcard  除了开卡费和充值手续费外，没有月费，并且打通了支付宝的支付，自动将支付的人民币更换为美刀。
+目前选择 wildcard 作为虚拟支付卡工具，主要原因是其注册简便、开卡速度快，最重要的是支持 RMB 付款。其他平台需购买稳定币兑换，对普通用户门槛高且手续费昂贵。
+
+wildcard 除了开卡费和充值手续费外，没有月费，并且打通了支付宝的支付，自动将支付的人民币更换为美刀。
 
 这东西本身非常简单，我自己也就是在12月初，大概做了一周左右，把知乎和网站铺了一些链接和内容，也就是教大家如何去升级 GPT
 我就先说这些，所以这个东西它的核心的点就是目前差的 GPT 很火，很多人想升级 GPT Plus，但是很多人都不会，所以这就是一个信息差。
@@ -25,21 +27,23 @@
 所以衍生出现在很多，卖 GPT 账号、卖虚拟卡、代充的，你只要去 google 上搜索 ChatGPT 账号、注册、ChatGPT Plus 等等关键词，就能看到一堆这样的。
 
 从 23 年初就有很多人在卖账号，基本收入都是六位数起步，到了 24 年，需求依然非常旺盛现在对于 GPT Plus 升级的需求越来越旺盛了。
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/f89963d2eb6a4119be8ca6434836ac39.png))
+
+![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/f89963d2eb6a4119be8ca6434836ac39.png)
+
 比如我去注册了一个新域名来单独放这些内容大概写了五篇文章（太懒了，就 12 月搞了两天）在网站上，到现在一个月了，日均 PV100，流量不算高，但是很精准，至少每天能带来几个转化吧，但几个就是一天百来块了。再加上我知乎、小红书、掘金、百度等等平台铺垫的内容，基本上目前日均 500 没问题。
 
-这里可以参考一些我搭建的网站：
-[https://chatgptzhinan.com/chatgpt_register_2024.html](https://chatgptzhinan.com/chatgpt_register_2024.html)
-[https://chatgptzhinan.com/how-to-register-chatgpt.html](https://chatgptzhinan.com/how-to-register-chatgpt.html)
+这里可以参考我搭建的网站：
+- [https://chatgptzhinan.com/chatgpt_register_2024.html](https://chatgptzhinan.com/chatgpt_register_2024.html)
+- [https://chatgptzhinan.com/how-to-register-chatgpt.html](https://chatgptzhinan.com/how-to-register-chatgpt.html)
 
 ## 1.2 项目投入成本
 这个平台需要先自己注册开卡使用，才能拉人赚佣金（2 美元/人），平台注册首次开卡使用费用是 9.99 美元（约 70 RMB），这表示只要拉到 5 个人就能回本了，如果在意的话，也不用参与啦（不是我的平台，我也是付费使用了的）
 
-敲重点！！！如果想要参与项目的话，直接一键注册 [https://bewildcard.com/i/1234](https://bewildcard.com/i/1234)
+划重点！如果想要参与项目的话，直接一键注册 [https://bewildcard.com/i/1234](https://bewildcard.com/i/1234)
 注册的时候如果没有填邀请码，可以手动填入四位数字 1234 邀请码，可以免 2 美元（约 15 RMB）的开卡费～
 请大家务必要用这个邀请码，后面我会跟平台老板申请佣金加到 2.2 美元或者更高。
 
-![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChatb735cc053cd3ce71bef1790cdfdfaae3.jpg))
+![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChatb735cc053cd3ce71bef1790cdfdfaae3.jpg)
 ![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/441708787765_.pic.jpg)
 
 ## 1.2 项目收入预期
@@ -62,7 +66,7 @@
 更进一步，如果你会使用 wordpress 等网站模板搭建一个静态网站就更好了（我会提供教程），因为有时候 ChatGPT 等内容，在第三方平台可能会被删除，有一个自己的文章可以保证教程永远不会被删，还能做 SEO（关注我的同学应该都是程序员，这块应该不是问题）。
 
 ## 1.4 参与项目的人多了还能赚吗?
-我目前每天也就成功返佣 10～20 个人，但是大家可以想象一下，每天需要 ChatGPT、Midjourney、GPT Plus 的这些人有多少！
+我目前每天也就成功返佣 10～20 个人，但是大家可以想象一下，每天需要 ChatGPT、Midjourney、GPT Plus 的这些人有多少！（包括现在爆火的 Sora）
 
 可以说全国每天都有新的 10w 人想注册使用这些完全不过分吧？（100 天也就 1000w 人，大家可以想象下 OpenAI 在国内的传播速度。。。）
 
