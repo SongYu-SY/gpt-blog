@@ -7,7 +7,7 @@
 然而由于官方限制，ChatGPT 在国内无法直接访问，而 ChatGPT Plus 在此基础上还必须绑定美国的（欧洲的好像也行）信用卡才能开通，这门槛确实挡住了不少人……
 
 不过方法总比困难多，经过一晚上的折腾，成功开通会员！
-![在这里插入图片描述](https://cdn.how2cs.cn/csguide/085222.png)
+![在这里插入图片描述](https://honorwildcard.oss-cn-beijing.aliyuncs.com/img/WeChat2d2143e90b1b220630201d9d79c45c2c.jpg)
 推荐 wildcard 平台(链接在下面)：
 
 这是一个虚拟卡平台（正规的，支付宝可以充值），开卡之后可以用 1～2 年（自由选择），并且提供了一键升级和一键注册账号的能力：
